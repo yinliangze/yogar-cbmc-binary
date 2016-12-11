@@ -11,7 +11,7 @@ To run Yogar-CBMC, use the following command-line from this directory:
 
 where  <inputfile>  is the filename to be verified. 
 
-The counterexample will also be written in counterexample.witness.
+The counterexample will also be written in "witness.graphml".
 
 To run Yogar-CBMC for SV-COMP benchmark, use the following command-line from this directory:
 
